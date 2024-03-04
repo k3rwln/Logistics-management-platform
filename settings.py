@@ -16,8 +16,8 @@ DATABASES = {
         'NAME': 'lmp',
         'USER': 'postgres',
         'PASSWORD': 'JXqAa52rtokVt4cxS',
-        # 'HOST': 'nw.sgcc.com.cn'
-        'HOST': '192.168.0.100',
+        'HOST': 'nw.sgcc.com.cn'
+        #vpn内网地址 'HOST': '192.168.0.100',
         'PORT': '5432',
     }
 }
